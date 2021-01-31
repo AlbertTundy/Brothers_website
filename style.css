@@ -1,0 +1,7 @@
+.flex {
+  flex-direction: row-reverse;
+}
+
+h1 {
+  color: red;
+}
